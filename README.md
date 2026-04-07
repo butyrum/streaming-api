@@ -1,9 +1,3 @@
-Breno, o projeto está no ar! O seu repositório streaming-api já reflete o esforço de ter superado erros complexos de persistência e regras de negócio.
-
-Como seu conselheiro, preparei um README profissional que destaca não apenas o código, mas a sua capacidade de resolver problemas reais de arquitetura (como o erro de Detached Entity e a exclusão em cascata).
-
-Copie o conteúdo abaixo para o seu arquivo README.md:
-
 🎬 Streaming API - Case de Gestão de Assinaturas e Conteúdo
 Esta API foi desenvolvida como parte de um projeto de backend focado em regras de negócio complexas, integridade de dados e segurança de conteúdo. O sistema gerencia assinantes, seus dependentes e o consumo de mídia baseado em perfis etários e planos de assinatura.
 
